@@ -1,0 +1,22 @@
+VSVersionInfo(
+    ffi=FixedFileInfo(
+    filevers=(1, 0, 2, 256),
+    prodvers=(1, 0, 0, 0),
+    mask=0x3f,
+    flags=0x0,
+    OS=0x40004,
+    fileType=0x1,
+    subtype=0x0,
+    date=(0, 0)),
+    kids=[StringFileInfo([StringTable(
+    u'040904B0',
+    [StringStruct(u'FileDescription', u'熱軋加熱爐硬體監控系統，若發生異常提醒送LINENotify通報。'),
+    StringStruct(u'FileVersion', u'1.0.4.256'),
+    StringStruct(u'InternalName', u'InternalName'),
+    StringStruct(u'LegalCopyright', u'Copyright©資訊處-程控二組'),
+    StringStruct(u'OriginalFilename', u'Monitor.py'),
+    StringStruct(u'ProductName', u'熱軋加熱爐'),
+    StringStruct(u'ProductVersion', u'1.0.0.0'),
+    StringStruct(u'Language', u'Traditional Chinese')])]), 
+    VarFileInfo([VarStruct(u'Translation', [1033, 1200])])]
+)
